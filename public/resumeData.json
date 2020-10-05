@@ -1,0 +1,128 @@
+{
+  "main": {
+    "firstName": "Erick",
+    "name": "Erick Hernandez",
+    "occupation": "Front-End Web Developer",
+    "description": "I obtained an Associate's Degree in Web Design at Grossmont College, located in El Cajon, California",
+    "image": "new-avatar.JPG",
+    "bio": "I'm Erick and I have strong knowledge of HTML, CSS and JavaScript. I can also customize websites using Bootstrap and WordPress templates. Currently learning more about ReactJS and MERN stack. Finally, my goal is to go beyond getting my work done; I want to make significant changes that will benefit you and your business.",
+    "contactmessage": "Please contact me if you have any questions.",
+    "email": "worldwidewebdev@gmail.com",
+    "phone": "+1 619-123-4567",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/people/Erick-Hernandez/100054815781893",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/erick-hernandez-93a4671a6",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/webdevrick",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/erickhrd",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Grossmont College",
+        "degree": "Associate's Degree in Web Design",
+        "graduated": "June 2020",
+        "description": "Graduated with Honors"
+      }
+    ],
+    "work": [
+      {
+        "company": "AP Flooring Inc.",
+        "title": "Web Designer",
+        "years": "July 2020 - August 2020",
+        "description": "Creating a website for a flooring company."
+      },
+      {
+        "company": "Yescas Family Cuisine",
+        "title": "Web Developer",
+        "years": "March 2020 - April 2020",
+        "description": "Building a website for a restaurant."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "BootStrap",
+        "level": "75%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "45%"
+      },
+      {
+        "name": "WordPress",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AP Flooring Inc Website",
+        "category": "AP Flooring Inc Website built with WordPress Elementor",
+        "image": "ap-flooring-inc.png",
+        "url": "https://apflooringinc.com/"
+      },
+
+      {
+        "title": "Yescas Family Cuisine Website",
+        "category": "Yescas Family Cuisine Website built with BootStrap",
+        "image": "yescas-family-cuisine.png",
+        "url": "https://yescasfamilycuisine.com/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone Website made with React JS and Firebase",
+        "image": "amazon-clone.png",
+        "url": "https://challenge-8399f.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I don't really remember what my clients have said about my work word by word, I should probably ask them again. But I'll leave this here.",
+        "user": "Myself"
+      },
+      {
+        "text": "Erick had me impressed with a well done job. I will totally hire him again for future projects.",
+        "user": "Imaginary Client"
+      }
+    ]
+  }
+}
