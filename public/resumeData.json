@@ -18,21 +18,13 @@
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/people/Erick-Hernandez/100054815781893",
-        "className": "fa fa-facebook"
-      },
+
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/erick-hernandez-93a4671a6",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/webdevrick",
-        "className": "fa fa-instagram"
-      },
+
       {
         "name": "github",
         "url": "https://github.com/erickhrd",
@@ -93,17 +85,17 @@
   "portfolio": {
     "projects": [
       {
-        "title": "AP Flooring Inc Website",
-        "category": "AP Flooring Inc Website built with WordPress Elementor",
-        "image": "ap-flooring-inc.png",
-        "url": "https://apflooringinc.com/"
+        "title": "JP Construction Company Website",
+        "category": "JP Construction Company Website built with WordPress Divi",
+        "image": "jp-construction.png",
+        "url": "https://jpconstructionsd.com/"
       },
 
       {
-        "title": "Yescas Family Cuisine Website",
-        "category": "Yescas Family Cuisine Website built with BootStrap",
-        "image": "yescas-family-cuisine.png",
-        "url": "https://yescasfamilycuisine.com/"
+        "title": "El Ranchito Taco Shop Website",
+        "category": "El Ranchito Taco Shop Website built with WordPress Elementor",
+        "image": "tacoshop-el-ranchito.png",
+        "url": "https://tacoshopelranchito.com/"
       },
       {
         "title": "Amazon Clone",
