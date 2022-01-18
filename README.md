@@ -8,7 +8,7 @@
 <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
 
 ## Description
-This is a ReactJS based personal resume website template
+This is a ReactJS based personal resume website templateg
 
 ## Make it Your Own!
 #### PREREQUISITES:
